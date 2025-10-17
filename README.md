@@ -3,6 +3,10 @@
 ### Genel Bakış
 SUMO üzerinde gerçek zamanlı ambulans yönlendirme ve trafik ışığı önceliği. Sistem A* + ALT (landmark) ile rota çıkarır, canlı trafik verileriyle kenar maliyetlerini ayarlar ve simülasyonu durdurmadan sinyal önceliği uygular. Ambulanslar periyodik olarak üretilir ve rotaları sürekli yeniden değerlendirilir.
 
+
+https://github.com/user-attachments/assets/b37d2ff5-72f1-43be-a872-69cd49b276cc
+
+
 ### Özellikler
 - ALT (landmark) sezgisiyle çevrimiçi A* yönlendirme
 - Canlı trafik etkili kenar maliyetleri (araç sayısı + anlık hız)
